@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/afifportfolio/static/css/main.5a04d71b.css",
+    "main.js": "/afifportfolio/static/js/main.62dec145.js",
+    "static/js/787.fb771931.chunk.js": "/afifportfolio/static/js/787.fb771931.chunk.js",
+    "static/media/afsyatv1.png": "/afifportfolio/static/media/afsyatv1.90805d1c10a6317d8d68.png",
+    "static/media/afsyatv3.png": "/afifportfolio/static/media/afsyatv3.9d983cf357f261b4a7fe.png",
+    "static/media/afsyatv2.png": "/afifportfolio/static/media/afsyatv2.ecbde0e60b3a86185c4b.png",
+    "static/media/header.svg": "/afifportfolio/static/media/header.425a89e95f97e3ca4eb28450448ab311.svg",
+    "static/media/afsyatv4.png": "/afifportfolio/static/media/afsyatv4.bb441a9572507ef587d7.png",
+    "static/media/back1.png": "/afifportfolio/static/media/back1.173b1cf39774b08b8bb2.png",
+    "static/media/contact.svg": "/afifportfolio/static/media/contact.957b2febcf315a4d63383203149ae219.svg",
+    "static/media/CentraNo2-Bold.ttf": "/afifportfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/afifportfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/afifportfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/afifportfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/afifportfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/afifportfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/afifportfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon4.svg": "/afifportfolio/static/media/nav-icon4.121965270bc64287a478072e4e98e3a9.svg",
+    "index.html": "/afifportfolio/index.html",
+    "static/media/nav-icon1.svg": "/afifportfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/afifportfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.5a04d71b.css.map": "/afifportfolio/static/css/main.5a04d71b.css.map",
+    "main.62dec145.js.map": "/afifportfolio/static/js/main.62dec145.js.map",
+    "787.fb771931.chunk.js.map": "/afifportfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a04d71b.css",
+    "static/js/main.62dec145.js"
+  ]
+}
