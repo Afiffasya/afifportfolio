@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/afifportfolio/static/css/main.25b261f3.css",
-    "main.js": "/afifportfolio/static/js/main.b6040647.js",
+    "main.js": "/afifportfolio/static/js/main.68276a87.js",
     "static/js/787.fb771931.chunk.js": "/afifportfolio/static/js/787.fb771931.chunk.js",
     "static/media/afsyatv1.png": "/afifportfolio/static/media/afsyatv1.90805d1c10a6317d8d68.png",
     "static/media/afsyatv3.png": "/afifportfolio/static/media/afsyatv3.9d983cf357f261b4a7fe.png",
@@ -23,11 +23,11 @@
     "index.html": "/afifportfolio/index.html",
     "static/media/nav-icon1.svg": "/afifportfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.25b261f3.css.map": "/afifportfolio/static/css/main.25b261f3.css.map",
-    "main.b6040647.js.map": "/afifportfolio/static/js/main.b6040647.js.map",
+    "main.68276a87.js.map": "/afifportfolio/static/js/main.68276a87.js.map",
     "787.fb771931.chunk.js.map": "/afifportfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25b261f3.css",
-    "static/js/main.b6040647.js"
+    "static/js/main.68276a87.js"
   ]
 }
