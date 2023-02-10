@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/afifportfolio/static/css/main.0ae50fb8.css",
-    "main.js": "/afifportfolio/static/js/main.8042a409.js",
+    "main.js": "/afifportfolio/static/js/main.9fcdad2e.js",
     "static/js/787.fb771931.chunk.js": "/afifportfolio/static/js/787.fb771931.chunk.js",
     "static/media/vid.gif": "/afifportfolio/static/media/vid.55e4aef4309ad1169658.gif",
     "static/media/header.svg": "/afifportfolio/static/media/header.425a89e95f97e3ca4eb28450448ab311.svg",
@@ -17,14 +17,14 @@
     "static/media/nav-icon6.svg": "/afifportfolio/static/media/nav-icon6.5dca1ba4f797d6d94257fdd4b896cf15.svg",
     "static/media/nav-icon3.svg": "/afifportfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/nav-icon4.svg": "/afifportfolio/static/media/nav-icon4.121965270bc64287a478072e4e98e3a9.svg",
-    "index.html": "/afifportfolio/index.html",
     "static/media/nav-icon1.svg": "/afifportfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/afifportfolio/index.html",
     "main.0ae50fb8.css.map": "/afifportfolio/static/css/main.0ae50fb8.css.map",
-    "main.8042a409.js.map": "/afifportfolio/static/js/main.8042a409.js.map",
+    "main.9fcdad2e.js.map": "/afifportfolio/static/js/main.9fcdad2e.js.map",
     "787.fb771931.chunk.js.map": "/afifportfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ae50fb8.css",
-    "static/js/main.8042a409.js"
+    "static/js/main.9fcdad2e.js"
   ]
 }
